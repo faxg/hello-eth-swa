@@ -1,6 +1,6 @@
 module.exports = async function (context, req) {
-    const databaseName = process.env.DATABASE_NAME;
+    const someCredential = process.env.SOME_CREDENTIAL;
     context.res.json({
-        text: `Hello from the API. Our Datebase name is ${databaseName}`
+        text: `Hello from the API. Our credential  is: ${someCredential}`
     });
 };

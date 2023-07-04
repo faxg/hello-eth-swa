@@ -6,3 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 See: https://learn.microsoft.com/en-us/azure/static-web-apps/configuration
 https://learn.microsoft.com/en-us/azure/static-web-apps/database-postgresql?tabs=bash&pivots=static-web-apps-rest
+
+
+- Start local:
+swa start build --api-location api
