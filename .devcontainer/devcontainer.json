@@ -13,7 +13,8 @@
 				"ms-azuretools.vscode-azureappservice",
 				"ms-azuretools.vscode-azurestorage",
 				"github.vscode-github-actions",
-				"ms-azuretools.vscode-azurefunctions"
+				"ms-azuretools.vscode-azurefunctions",
+				"ms-azuretools.vscode-cosmosdb"
 			]
 		}
 	}
